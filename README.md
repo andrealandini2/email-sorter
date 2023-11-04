@@ -24,4 +24,4 @@ This script, designed for terminal use, employs IMAP to connect to Gmail and imp
 
 This script simplifies the management of Gmail emails, compensating for Gmail's absence of an intuitive rules system by utilizing custom if statements for sorting. It ensures an organized inbox by employing label-based sorting and maintaining an updated local archive.
 
-Feel free to adapt, contribute, or modify this script to suit your specific requirements.
+
